@@ -85,7 +85,18 @@ El mantenimiento tiene técnicas para darle un periodo de vida útil más largo y l
 al software ya que el continuo uso genera una serie de cambios en la configuración original del sistema, causando bajas en el rendimiento que al acumularse 
 con el tiempo pueden generar problemas serios. Actualmente es indispensable mantener actualizada la protección contra virus informáticos.
 
-
-Por supuesto es muy recomendable usar su equipo responsablemente, ya que esto le podrá causar un gasto mayor a futuro.
-
-Las recomendaciones son: Cuidar las páginas a las que accesa, las de música, videos o juegos regularmente traen enlaces que pueden filtrarse directamente al equipo de cómputo, tener un antivirus actualizado, hacer cada cierto tiempo un escaneado y limpieza de su PC, evitar los mensajes SPAM que llegan en los correos electrónicos, estos mensajes llegan normalmente con remitente desconocido y se almacenan en la carpeta Correo no deseado, generalmente son solo virus que no hacen mucho daño, pero también puede costar hasta el formateo del equipo y con esto, la perdida de archivos importantes.
+TIPOS DE ACTIVIDADES
+ Basili et al. [1996] identifican las siguientes once actividades, que se realizan con cada modificación del software:
+	-Análisis de impacto y de costes/beneficios: se dedica esta actividad a analizar diferentes alternativas de implementación y/o a comprobar su 
+						     impacto en la planificación, coste y facilidad de operación.
+	-Comprensión del cambio: puede consistir en localizar el error y determinar su causa, o en comprender los requisitos de una mejora solicitada.
+	-Diseño del cambio: se refiere al diseño propuesto para el cambio, pudiéndose incluir un rediseño del sistema.
+	-Codificación y pruebas unitarias: se codifica y prueba el funcionamiento de cada componente modificado.
+	-Inspección, certificación y consultoría: esta actividad se dedica a inspeccionar el cambio, comprobar otros diseños, reuniones de inspección, etc.
+	-Pruebas de integración: se refiere a comprobar la integración de los componentes modificados con el resto del sistema.
+	-Pruebas de aceptación: en esta actividad, el usuario comprueba, junto al personal encargado del mantenimiento, la adecuación del cambio a sus necesidades.
+	-Pruebas de regresión: en esta actividad se somete el software modificado a casos de pruebas previamente almacenados y por los que ya pasó.
+	-Documentación del sistema: se revisa y reescribe, en caso necesario, la documentación del sistema para que se ajuste al producto software ya modificado.
+	-Otra documentación (del usuario, por ejemplo): se revisa y reescribe, en caso necesario, los diferentes manuales de usuario y otra documentación, 
+							excepto la documentación del sistema.
+	-Otras actividades, como las dedicadas a la gestión del proyecto de mantenimiento.
