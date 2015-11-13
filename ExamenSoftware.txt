@@ -181,3 +181,57 @@ El gigante de la informática Microsoft lanzo un sistema operativo para robots. B
  facilitar la labor de quienes se dedican a la programación de robots reales o simulados y, de paso, ocupar una posición más relevante en la industria de la robótica.
 Este sistema operativo sirve para programar todo tipo de robots, tanto de juguete como aquellos que se utilizan en las industrias, y estará a disposición de 
 investigadores y aficionados de forma gratuita.
+La Inteligencia Artificial como tendencia en Sistemas Operativos
+Llamada polisemia, la que los diferencia, como veremos, de los códigos computacionales.
+En la actualidad, el problema de la comprensión del lenguaje natural por las máquinas dista mucho de estar resuelto, pero, como en el caso del procesamiento 
+de voz, hay aproximaciones de utilidad práctica. La primera, la menos sofisticada, que no puede considerarse inteligencia artificial, consiste en hacer que el 
+programa dirija el dialogo, forzando al usuario a responderle dentro de unos marcos muy rígidos, ya sea por medio de selecciones en menú, o mediante preguntas 
+escogidas que sólo puedan responderse con SI o NO. Evidentemente, tendremos un dialogo en lenguaje natural, pero el usuario no ha llegado a escribir una sola
+ frase completa.
+En una segunda aproximación, lo que el programa interpreta no es un lenguaje natural sin restricciones, sino una versión simplificada, con reglas gramaticales
+ más estrictas que las ordinarias, para evitar la ambigüedad. Podríamos, por ejemplo, forzar al usuario a utilizar siempre oraciones de Las forma
+sujeto-verbo-complemento directo.
+En la tercera aproximación, dejaremos libre la sintaxis del lenguaje, pero se restringe el ámbito semántico, es decir, los sentidos posibles de las palabras. 
+Esta técnica se utiliza a menudo en la interfaz de usuario de los sistemas expertos, en los que el tema sobre el que se esta dialogando se constriñe a un campo
+muy concreto. Por ejemplo, en un sistema experto en diagnostico medico, las palabras posiblemente ambiguas tomaran con preferencia aquel significado que tenga 
+algo que ver con la medicina. Además, y para ganar tiempo, el programa no suele analizar la sintaxis del texto que ha recibido, sino que se apoya únicamente en
+los términos más importantes para deducir el significado de la frase, en el contexto de la conversación.
+Windows 7
+Descripción
+Es la última versión de Microsoft Windows, (anteriormente conocido con nombre código Blackcomb, y luego Vienna), un sistema operativo producido por Microsoft
+Corporation para uso en PCs, incluyendo equipos de escritorio en hogares y oficinas, Notebooks, tablet PCs, netbooks y equipos media center.
+A diferencia de su predecesor, Windows 7 es una actualización incremental del núcleo NT 6.0, esto con la meta de mantener cierto grado de compatibilidad con 
+aplicaciones y hardware en los que su antecesor Windows Vista ya era compatible. Las metas de desarrollo para Windows 7 fueron el mejorar su interfaz para hacerla 
+más amena al usuario, con nuevas características que permiten hacer tareas de una manera más fácil y rápida, al mismo tiempo en que se realizaron esfuerzos para 
+lograr un sistema más ligero, estable y rápido. Diversas presentaciones dadas por la compañía en el 2008 se enfocaron en demostrar capacidades táctiles multi-touch, 
+una interfaz rediseñada junto con una nueva barra de tareas y un sistema de redes domésticas denominado Grupo en el Hogar, además de mejoras en el rendimiento.
+Características
+Windows 7 incluye numerosas nuevas actualizaciones, entre las que se encuentran avances en reconocimiento de voz, táctil y escritura, soporte para discos virtuales,
+mejor desempeño en procesadores multi-núcleo, mejor arranque y mejoras en el núcleo.
+Muchas nuevas características se agregaron al Panel de Control como: Aceleradores, Gadgets, Infrarrojo, Solución de problemas, Localización y otros sensores,
+ Administrador de Credenciales, Windows Solution Center, entre otros.
+Se hicieron grandes cambios en programas como WordPad, Paint, Calculadora y Teclado en pantalla.
+La barra lateral de Windows o más conocida como Windows Sidebar se ha eliminado y ahora los gadgets pueden ubicarse libremente en cualquier lugar del escritorio.
+Impresoras y dispositivos: Nuevo item del panel del control en la que se tendrá acceso a todo el hardware que se conecte al PC (marcos digitales, impresoras, cámaras
+ fotográficas, etc). Junto a esto se ha incluido Device Stage, es un administrador de dispositivos móviles que ayuda a los usuarios a sincronizar música, vídeos, 
+fotos y da información acerca del estado de la tarjeta SIM, la carga de la batería, mensajes, etc.
+Aero Snaps: Permite cambiar el tamaño de una ventana simplemente con arrastrarla a un extremo de la pantalla, por ejemplo, si se arrastra al tope se maximiza,
+ a la derecha o izquierda ocupa el 50% de la pantalla según el lado al que la arrastremos y si la arrastramos nuevamente al centro toma el tamaño original.
+Funcionalidades
+Windows 7 estará más enfocado en el rendimiento del sistema operativo. En el blog oficial Microsoft publicó seis de los puntos más relevantes a trabajar: empleo de
+ memoria, utilización de CPU, operaciones de entrada y salida a disco, operaciones de arranque, cierre y reposo, rendimiento del sistema base y empleo de disco por
+ parte del sistema.
+En una entrevista con Newsweek, Bill Gates dijo que esta nueva versión de Windows estaría más centrada en el usuario; además comentó que trabajan con esmero para
+mejorar el rendimiento.
+También uno de sus principales objetivos es mejorar el arranque y tienen como propósito que inicie en menos de 15 segundos. Para esto se propusieron reducir
+la cantidad de programas y servicios que se inician al cargar Windows.
+Otra cosa muy presente en el desarrollo de este sistema (gracias a las quejas de los usuarios) es minimizar la intrusión, mejorar el rendimiento y habilitar la 
+modificación del Control de Cuentas de Usuario, ya que éste fue un total fracaso en Windows Vista debido a sus constantes alertas innecesarias en simples acciones 
+diarias.
+Software Asociado
+Compatibilidad:
+Las versiones cliente de Windows 7 serán lanzadas en versiones para arquitectura 32 bits y 64 bits en versiones para Professional y Home. No obstante, las versiones
+servidor de este producto serán lanzadas exclusivamente para arquitectura 64 bits.
+Esto significa que, las versiones cliente de 32 bits aún soportarán programas Windows 16 bits y MS-DOS. Y las versiones 64 bits 
+(incluyendo todas las versiones de servidor), soportarán tanto programas de 32 como de 64 bits.
+Modo XP:
