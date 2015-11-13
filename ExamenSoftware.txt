@@ -1,0 +1,7 @@
+La ingeniería inversa
+Es el proceso de descubrir los principios tecnológicos de un objeto, herramienta, dispositivo o sistema, mediante el razonamiento adictivo (haciendo conjeturas) de su estructura, función y operación. Dicho de otra manera, se trata de tomar algo, por ejemplo un dispositivo mecánico o electrónico, para analizar su funcionamiento en detalle, con el objetivo de crear un dispositivo que haga la misma tarea o una similar sin copiar los detalles del original.
+
+Objetivo
+La ingeniería inversa persigue el objetivo de obtener la mayor cantidad de información técnica de un producto, del cual no se tiene la más mínima información técnica de su diseño, construcción y funcionamiento, de modo que se debe partir de un todo para comprender cada pieza del sistema, para lo cual se deben tomar notas muy detalladas.
+Antecedentes
+La ingeniería inversa es una rama de la ingeniería relativamente reciente, cuyos orígenes se remontan a la Segunda Guerra Mundial, cuando alguno de los dos bandos (Aliados y Potencias del Eje) capturaba maquinaria o equipo del otro bando, entonces se disponían a conocer hasta el más mínimo detalle de la tecnología del enemigo con el objetivo de encontrar fallas o puntos débiles que les brindarán cierta ventaja.
