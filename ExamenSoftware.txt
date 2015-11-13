@@ -117,3 +117,67 @@ además de un gran costo y poca flexibilidad.
 Es un término informático acuñado en 1968, en la primera conferencia organizada por la OTAN sobre desarrollo de software, de la cual nació formalmente la 
 rama de la ingeniería de software. El término se adjudica a F. L. Bauer, aunque previamente había sido utilizado por Edsger Dijkstra en su obra The Humble 
 Programmer.
+Básicamente, la crisis del software se refiere a la dificultad en escribir programas libres de defectos, fácilmente comprensibles, y que sean verificables. 
+Las causas son, entre otras, la complejidad que supone la tarea de programar, y los cambios a los que se tiene que ver sometido un programa para ser continuamente 
+adaptado a las necesidades de los usuarios.
+Además, no existen todavía herramientas que permitan estimar de una manera exacta, antes de comenzar el proyecto, cuál es el esfuerzo que se necesitará para 
+desarrollar un programa. Este hecho provoca que la mayoría de las veces no sea posible estimar cuánto tiempo llevará un proyecto, ni cuánto personal será necesario.
+Cuando se fijan plazos normalmente no se cumplen por este hecho. Del mismo modo, en muchas ocasiones el personal asignado a un proyecto se incrementa con la esperanza de disminuir el plazo de ejecución.
+Por último, las aplicaciones de hoy en día son programas muy complejos, inabordables por una sola persona. En sus comienzos se valoró como causa también la inmadurez
+de la ingeniería de software, aunque todavía hoy en día no es posible realizar estimaciones precisas del coste y tiempo que necesitará un proyecto de software.
+Englobó a una serie de sucesos que se venían observando en los proyectos de desarrollo de software:
+Los proyectos no terminaban en plazo.
+Los proyectos no se ajustaban al presupuesto inicial.
+Baja calidad del software generado.
+Software que no cumplía las especificaciones.
+Código inmantenible que dificultaba la gestión y evolución del proyecto.
+Aunque se han propuesto diversas metodologías para intentar subsanar los problemas mencionados, lo cierto es que todavía hoy no existe ningún método que haya
+ permitido estimar de manera fiable el coste y duración de un proyecto antes de sus comienzos.
+En 1984 Richard Stallman deja el MIT y comienza a trabajar en su proyecto GNU, con el objetivo de desarrollar un sistema operativo completamente libre, desde 
+el kernel, editores, compiladores, debuggers, hasta utilitarios más complejos como procesadores de texto e inclusive juegos. Uno de los primeros desarrollos
+ realizados por el mismo Stallman fue el editor de textos GNU Emacs a principios de 1985. Ese mismo año se funda la Free Software Fundation, ente
+ que financia desde entonces al proyecto GNU, la misma se mantiene con donaciones y con el producto de la venta de CD-ROMs tanto de programas binarios como
+ código fuente, manuales y distribuciones completas (conjunto de software para una dada plataforma de hardware).
+En este punto conviene aclarar la distinción entre software libre y software gratuito. Se entiende que el poseedor de software libre tiene la libertad de:
+Ejecutar el programa.
+Modificar el programa (para que este punto tenga sentido es necesario que el programa sea distribuido con el código fuente).
+Redistribuir copias del programa (ya sea gratis o no).
+Distribuir copias modificadas del programa.
+Con el tiempo, los programadores de la Free Software Fundation fueron completando algunas de las tareas planeadas originalmente por el proyecto GNU, entre otros
+ la biblioteca de lenguaje "C", y el shell más utilizado en los sistemas GNU/Linux: bash. El éxito conseguido por estos programas que no sólo trabajan en sistemas
+ GNU/Linux, sino que han sido portados a otras plataformas, forzaron a sus desarrolladores a dedicar un tiempo importante a su mantenimiento y mejora. De esta manera, el desarrollo completo de un sistema operativo basado en software libre se vio demorado por algunos años.
+Por otra parte, además de los productos de la FSF, existen otros desarrollos de software libre que fueron aprovechados por el proyecto GNU, entre los más importantes 
+están el TeX como procesador de textos y el X Windows System como sistema gráfico de interfase con el usuario.
+Alrededor de 1990 el único componente básico del sistema que estaba faltando era el kernel. La decisión que se tomó en ese momento fue utilizar el microkernel
+ Mach (desarrollado por las universidades Carnegie Mellon y la de Utah), adicionándole una serie de procesos servidores desarrollados por la FSF. A esta combinación
+ de un micro-kernel con procesos servidores independientes se le llamó HURD. Recién desde los últimos meses de 1999 HURD ha comenzado a ser utilizado en forma
+confiable. Mucho antes de que esto sucediera, un estudiante finlandés, Linus Torvalds, desarrolló un kernel para computadoras basadas en el procesador
+ Intel 386, compatible con unix, que llamó LINUX. Este kernel fue también desarrollado como software libre, y rápidamente fue creciendo merced a la colaboración
+de programadores de todo el mundo. En este momento Linux ha sido portado a toda la gama de procesadores Intel a partir del i386: (486, Pentium, Pentium II y III, 
+Celeron), a procesadores para PC's de Cyrix y de AMD, e incluso a procesadores tipo sparc (SUN), a los procesadores Motorola 68000 (Apple MacIntosh), a 
+procesadores Alpha (de 64 bits, utilizados por Compaq, antes Digital). De esta manera, alrededor de 1992 fue posible combinar el kernel Linux con los utilitarios 
+del proyecto GNU y surgió el primer sistema operativo completamente basado en software libre.
+Tipos de Software, Descripción y Ejemplos
+Software de sistema
+Es el software básico o sistema operativo. Es un conjunto de programas cuyo objeto es facilitar el uso del computador (aísla de la complejidad de cada dispositivo, 
+y presenta al exterior un modelo común de sistema de manejo para todos los dispositivos) y conseguir que se use eficientemente (ejemplo: realizar operaciones 
+mientras se ejecuta un programa). Administra y asigna los recursos del sistema (hard-ware), ejemplo windows xp, edition, vista, ms-dos, lunix, unix, mac, e incluido 
+en este se encuentran los Programas de utilidad: (se le podrían llamar también software de mantenimiento): desfragementador de discos, liberador de espacio etc.
+Software de Aplicación
+Son los programas que controlan y optimización la operación de la máquina, establecen una relación básica y fundamental entre el usuario y el computador, hacen que 
+el usuario pueda usar en forma cómoda y amigable complejos sistemas hardware, realizan funciones que para el usuario serían engorrosas o incluso imposibles, y actúan 
+como intermediario entre el usuario y el hardware, ejemplo cuando nos vamos a inicio\todos los programas. y todos los que aparezcan ahí,
+ instalados así se les llaman "software de aplicación"
+La Robótica y el Software de Sistemas Operativos
+Permite examinar en detalle el comportamiento estático y dinámico de dispositivos cinemáticos (por ejemplo robots). Es una herramienta muy potente tanto las 
+aplicaciones de ingeniería robótica, I+D y test de rendimiento de sistemas robóticos. Permiten una gran flexibilidad en el análisis del comportamiento de sistemas 
+cinemáticos complejos. Muestra los resultados de forma gráfica. Está concebido como el osciloscopio para la robótica.
+Los robots son utilizados en una diversidad de aplicaciones, desde robots tortugas en los salones de clases, robots soldadores en la
+industria automotriz, hasta brazos teleoperados en el transbordador espacial.
+Cada robot lleva consigo su problemática propia y sus soluciones afines; no obstante que mucha gente considera que la automatización de procesos a
+través de robots está en sus inicios, es un hecho innegable que la introducción de la tecnología robótica en la industria, ya ha causado un gran impacto. 
+En este sentido la industria Automotriz desempeña un papel preponderante.
+El gigante de la informática Microsoft lanzo un sistema operativo para robots. Bajo el nombre de Microsoft Robotics Studio, pretende
+ facilitar la labor de quienes se dedican a la programación de robots reales o simulados y, de paso, ocupar una posición más relevante en la industria de la robótica.
+Este sistema operativo sirve para programar todo tipo de robots, tanto de juguete como aquellos que se utilizan en las industrias, y estará a disposición de 
+investigadores y aficionados de forma gratuita.
