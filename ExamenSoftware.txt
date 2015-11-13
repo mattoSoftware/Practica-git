@@ -57,3 +57,35 @@ medición de mantenibilidad.
 
 	El mantenimiento de software es una actividad muy amplia que incluye la corrección de errores, mejoras de las capacidades, eliminación de funciones obsoletas 
 y optimización. Debido a que el cambio es inevitable, se debe desarrollar mecanismos para la evaluación, controlar y hacer modificaciones.
+
+ Clasificacion de actividades de mantenimiento en cuatro clases:
+
+	Adaptable – modificar el sistema para hacer frente a cambios en el ambiente del software (DBMS, OS)
+	Perfectivo – implementar nuevos, o cambiar requerimientos de usuario referentes a mejoras funcionales para el software
+	Correctivo, diagnosticar y corregir errores, posiblemente los encontraron por los usuarios
+	Preventiva – aumentar la capacidad de mantenimiento de software o fiabilidad para evitar problemas en el futuro
+
+FASE DE MANTENIMIENTO
+
+	La fase de mantenimiento de software involucra cambios al software para corregir defectos encontrados durante su uso o la adición de nueva 
+funcionalidad mejorando la usabilidad y aplicabilidad del software. El mantenimiento del software involucra diferentes técnicas específicas. 
+Una técnica es el rebanamiento estático, la cual es usada para identificar todo el código de programa que puede modificar alguna variable.
+
+	La fase de mantenimiento de software es una parte explícita del modelo en cascada del proceso de desarrollo de software el cual fue desarrollado 
+durante el movimiento de programación estructurada en computadores. El otro gran modelo, el Desarrollo en espiral desarrollado durante el movimiento de 
+ingeniería de software orientada a objeto no hace una mención explícita de la fase de mantenimiento. Sin embargo, esta actividad es notable, considerando el 
+hecho de que dos tercios del coste del tiempo de vida de un sistema de software involucran mantenimiento.
+
+MANTENIMIENTO PREVENTIVO DEL SOFTWARE
+
+	El mantenimiento preventivo consiste en una atención constante de limpieza, revisión y afinación de los distintos elementos integrantes 
+de un equipo de cómputo. Es importante saber que la mayoría de los problemas que se presentan en el trabajo cotidiano, se debe a la falta de un programa 
+específico de mantenimiento de los equipos, de tal manera que la mayoría de los problemas se resuelven con el mismo procedimiento del mantenimiento preventivo. 
+El mantenimiento tiene técnicas para darle un periodo de vida útil más largo y libre de fallas. Debemos de tener en cuenta que es necesario darle mantenimiento
+al software ya que el continuo uso genera una serie de cambios en la configuración original del sistema, causando bajas en el rendimiento que al acumularse 
+con el tiempo pueden generar problemas serios. Actualmente es indispensable mantener actualizada la protección contra virus informáticos.
+
+
+Por supuesto es muy recomendable usar su equipo responsablemente, ya que esto le podrá causar un gasto mayor a futuro.
+
+Las recomendaciones son: Cuidar las páginas a las que accesa, las de música, videos o juegos regularmente traen enlaces que pueden filtrarse directamente al equipo de cómputo, tener un antivirus actualizado, hacer cada cierto tiempo un escaneado y limpieza de su PC, evitar los mensajes SPAM que llegan en los correos electrónicos, estos mensajes llegan normalmente con remitente desconocido y se almacenan en la carpeta Correo no deseado, generalmente son solo virus que no hacen mucho daño, pero también puede costar hasta el formateo del equipo y con esto, la perdida de archivos importantes.
