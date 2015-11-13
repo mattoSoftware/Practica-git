@@ -100,3 +100,20 @@ TIPOS DE ACTIVIDADES
 	-Otra documentación (del usuario, por ejemplo): se revisa y reescribe, en caso necesario, los diferentes manuales de usuario y otra documentación, 
 							excepto la documentación del sistema.
 	-Otras actividades, como las dedicadas a la gestión del proyecto de mantenimiento.
+
+			Evolucion del software
+Introducción
+El Software representa la vida interna de un computador, el manejo y aprovechamiento del mismo y todas las ventajas que se brindan el mundo de las computadoras,
+depende del software, facilitando a los usuarios el desarrollo de programas que contribuyen con tareas diarias tanto personales como generales, empresariales 
+y organizacionales el software en sus diferentes tipos es el elemento esencial como interfaz entre usuario - computador, su historia desde un principio se muestra
+con poca atención pero con el paso del tiempo se ha tornado importante para los programadores y creadores de sistemas tanto de aplicación como operativos, 
+todo lo que se ve digitalizado en un computador representa el software clasificado de alguna forma, las herramientas del menú inicio y todas aquellas que se 
+despliegan al encendido del CPU, el desarrollo de esta herramienta ha permitido innovar en cuanto a la robótica he inteligencia artificial facilitando el trabajo en 
+determinadas áreas laborales y agilizando las mismas por ejemplo en la fabricación de vehículos mediante software de programación se diseñan estructuras robóticas 
+inmensas y fuertes que realizan tareas que al brazo humano le tomarían mas tiempo.
+Reseña Histórica del Software
+En 1990 La crisis del software se fundamentó en el tiempo de creación de software, ya que en la creación del mismo no se obtenían los resultados deseados,
+además de un gran costo y poca flexibilidad.
+Es un término informático acuñado en 1968, en la primera conferencia organizada por la OTAN sobre desarrollo de software, de la cual nació formalmente la 
+rama de la ingeniería de software. El término se adjudica a F. L. Bauer, aunque previamente había sido utilizado por Edsger Dijkstra en su obra The Humble 
+Programmer.
