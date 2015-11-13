@@ -5,3 +5,18 @@ Objetivo
 La ingeniería inversa persigue el objetivo de obtener la mayor cantidad de información técnica de un producto, del cual no se tiene la más mínima información técnica de su diseño, construcción y funcionamiento, de modo que se debe partir de un todo para comprender cada pieza del sistema, para lo cual se deben tomar notas muy detalladas.
 Antecedentes
 La ingeniería inversa es una rama de la ingeniería relativamente reciente, cuyos orígenes se remontan a la Segunda Guerra Mundial, cuando alguno de los dos bandos (Aliados y Potencias del Eje) capturaba maquinaria o equipo del otro bando, entonces se disponían a conocer hasta el más mínimo detalle de la tecnología del enemigo con el objetivo de encontrar fallas o puntos débiles que les brindarán cierta ventaja.
+
+
+
+
+
+
+Usos
+La ingeniería inversa tiene muchas aplicaciones en el mundo actual y es aplicada por todo tipo de empresas, de todos los ámbitos tecnológicos. Algunos de los usos principales son:
+Investigar, analizar y comprender la tecnología utilizada por otras naciones o por otras empresas.
+Analizar los productos de la competencia para analizar sin infringen alguna patente de otra empresa.
+Desarrollar productos que sean compatibles con otros productos, sin tener acceso a los detalles técnicos de estos últimos.
+Comprobar la seguridad de un producto, en informática por ejemplo, para conocer las brechas de seguridad que puede tener un programa.
+
+División
+Actualmente la ingeniería inversa se divide en dos grandes vertientes: ingeniería inversa de producto e ingeniería inversa de software; en la primera entran todos aquellos productos físicos tales como máquinas, componentes electrónicos, dispositivos, etc., y en la segunda protocolos, códigos de programación, aplicaciones digitales, etc. No es una definición completamente establecida pero es la más aceptada actualmente.
