@@ -51,6 +51,8 @@ La aplicación de ingeniería inversa nunca cambia la funcionalidad del producto o
 • Detectar efectos laterales: los cambios que se puedan realizar en un sistema puede conducirnos a que surjan efectos no deseados, esta serie de anomalías puede ser detectados por la ingeniería inversa.
 • Facilitar la reutilización: por medio de la ingeniería inversa se pueden detectar componentes de posible reutilización de sistemas existentes, pudiendo aumentar la productividad, reducir los costes y los riesgos de mantenimiento.
 
+Referencias
+ La Dirección Estratégica de la Empresa. Teoría y aplicaciones. José Emilio Navas / Luis Ángel Guerras. Ed. Civitas. 3ª ed.
 
 
 								MANTENIMIENTO DE SOFTWARE
