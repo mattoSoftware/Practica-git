@@ -1,5 +1,5 @@
 								INGENIERIA INVERSA
-La ingeniería inversa (en inglés, reverse engineering) s el proceso de descubrir los principios tecnológicos de un objeto, herramienta, dispositivo o sistema, mediante el razonamiento adictivo 
+	Es el proceso de descubrir los principios tecnológicos de un objeto, herramienta, dispositivo o sistema, mediante el razonamiento adictivo 
 (haciendo conjeturas) de su estructura, función y operación. Dicho de otra manera, se trata de tomar algo, por ejemplo un dispositivo mecánico o electrónico, 
 para analizar su funcionamiento en detalle, con el objetivo de crear un dispositivo que haga la misma tarea o una similar sin copiar los detalles del original.
 
@@ -43,17 +43,6 @@ Si se sigue un proceso de ingeniería inversa bien establecido no tiene por qué h
 el objetivo de la ingeniería inversa: obtener un producto que haga lo mismo pero que sea nuevo, que no aplique los mismos principios de funcionamiento del
 producto analizado; es decir, la ingeniería inversa se debe utilizar solamente para conocer un producto, con el fin de hacer uno que haga lo mismo pero de otro modo.
 
-Ventajas de la Ingeniería inversa
-La aplicación de ingeniería inversa nunca cambia la funcionalidad del producto objeto de la aplicación sino que permite obtener productos que indican cómo se ha construido el mismo. Su realización permite obtener los siguientes beneficios:
-• Reducir la complejidad del sistema: al intentar comprender el software se facilita su mantenimiento y la complejidad existente disminuye.
-• Generar diferentes alternativas: del punto de partida del proceso, principalmente código fuente, se generan representaciones gráficas lo que facilita su comprensión.
-• Recuperar y/o actualizar la información perdida (cambios que no se documentaron en su momento): en la evolución del sistema se realizan cambios que no se suele actualizar en las representaciones de nivel de abstracción más alto, para lo cual se utiliza la recuperación de diseño.
-• Detectar efectos laterales: los cambios que se puedan realizar en un sistema puede conducirnos a que surjan efectos no deseados, esta serie de anomalías puede ser detectados por la ingeniería inversa.
-• Facilitar la reutilización: por medio de la ingeniería inversa se pueden detectar componentes de posible reutilización de sistemas existentes, pudiendo aumentar la productividad, reducir los costes y los riesgos de mantenimiento.
-
-Referencias
- La Dirección Estratégica de la Empresa. Teoría y aplicaciones. José Emilio Navas / Luis Ángel Guerras. Ed. Civitas. 3ª ed.
- www.alegsa.com.ar › Diccionario tecnología › Piratería y hacking
 
 
 								MANTENIMIENTO DE SOFTWARE
@@ -112,6 +101,9 @@ TIPOS DE ACTIVIDADES
 							excepto la documentación del sistema.
 	-Otras actividades, como las dedicadas a la gestión del proyecto de mantenimiento.
 
+REFERENCIAS
+https://es.wikipedia.org/wiki/Mantenimiento_de_software
+http://ingenieria.uatx.mx/labastida/files/2011/08/MANTENIMIENTO-DE-SOFTWARE.pdf
 
 								EVOLUCION DEL SOFTWARE
 
